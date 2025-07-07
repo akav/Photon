@@ -59,8 +59,8 @@ public class Engine
 //	private static final int FRAME_WIDTH_PX  = 800;
 //	private static final int FRAME_HEIGHT_PX = 500;
 	
-	private static final int FRAME_WIDTH_PX  = 400;
-	private static final int FRAME_HEIGHT_PX = 250;
+	private static final int FRAME_WIDTH_PX  = 1920;
+	private static final int FRAME_HEIGHT_PX = 1080;
 	
 //	private static final int FRAME_WIDTH_PX  = 120;
 //	private static final int FRAME_HEIGHT_PX = 75;
